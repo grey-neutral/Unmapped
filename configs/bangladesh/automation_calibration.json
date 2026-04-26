@@ -1,0 +1,7 @@
+{
+  "connectivityConstraint": "low",
+  "informalityAdjustment": 0.81,
+  "physicalTaskProtection": 0.78,
+  "digitalSubstitutionAcceleration": 1.05,
+  "digitalAdoptionFactor": 0.88
+}

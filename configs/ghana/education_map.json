@@ -1,0 +1,12 @@
+{
+  "secondary_certificate": {
+    "mappedLevel": "upper_secondary",
+    "baselineSkills": ["literacy", "numeracy", "formal_learning", "exam_completion"],
+    "confidence": "medium"
+  },
+  "basic_school": {
+    "mappedLevel": "lower_secondary",
+    "baselineSkills": ["literacy", "basic_numeracy"],
+    "confidence": "low"
+  }
+}

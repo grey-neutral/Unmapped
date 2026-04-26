@@ -1,0 +1,32 @@
+{
+  "youthNEET": {
+    "value": 14.1,
+    "unit": "%",
+    "source": "World Bank WDI sample, youth NEET"
+  },
+  "informalEmployment": {
+    "value": 77,
+    "unit": "%",
+    "source": "ILOSTAT sample, informal employment"
+  },
+  "serviceEmploymentTrend": {
+    "value": 6.2,
+    "unit": "% growth",
+    "source": "ILOSTAT sample, services employment trend"
+  },
+  "repairWageProxy": {
+    "value": 1.18,
+    "unit": "x informal retail baseline",
+    "source": "ILOSTAT sample, repair/service wage proxy"
+  },
+  "humanCapitalSignal": {
+    "value": 0.44,
+    "unit": "index",
+    "source": "World Bank human capital sample"
+  },
+  "digitalConnectivity": {
+    "value": 68,
+    "unit": "% mobile internet availability",
+    "source": "ITU digital development sample"
+  }
+}

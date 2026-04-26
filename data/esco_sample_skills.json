@@ -1,0 +1,138 @@
+[
+  {
+    "skillId": "multilingual_communication",
+    "label": "Multilingual communication",
+    "escoId": "ESCO:LANG-001",
+    "escoLabel": "communicate in multiple languages",
+    "relatedOccupations": ["4222", "4225", "4229"],
+    "onetTaskClusters": ["customer interaction", "field communication"]
+  },
+  {
+    "skillId": "customer_communication",
+    "label": "Customer communication",
+    "escoId": "ESCO:CUST-010",
+    "escoLabel": "maintain customer service",
+    "relatedOccupations": ["4225", "5244", "3339"],
+    "onetTaskClusters": ["service recovery", "frontline support"]
+  },
+  {
+    "skillId": "local_language_mediation",
+    "label": "Local language mediation",
+    "escoId": "ESCO:LANG-014",
+    "escoLabel": "mediate in community language settings",
+    "relatedOccupations": ["4222", "3257"],
+    "onetTaskClusters": ["community outreach", "field coordination"]
+  },
+  {
+    "skillId": "device_diagnostics",
+    "label": "Device diagnostics",
+    "escoId": "ESCO:ELEC-021",
+    "escoLabel": "diagnose defective electronic equipment",
+    "relatedOccupations": ["7422", "7421"],
+    "onetTaskClusters": ["fault isolation", "equipment testing"]
+  },
+  {
+    "skillId": "troubleshooting",
+    "label": "Troubleshooting",
+    "escoId": "ESCO:TECH-017",
+    "escoLabel": "troubleshoot technical issues",
+    "relatedOccupations": ["7422", "7231", "3512"],
+    "onetTaskClusters": ["problem solving", "repair testing"]
+  },
+  {
+    "skillId": "small_electronics_handling",
+    "label": "Small electronics handling",
+    "escoId": "ESCO:ELEC-038",
+    "escoLabel": "handle electronic equipment safely",
+    "relatedOccupations": ["7422", "7421"],
+    "onetTaskClusters": ["bench repair", "component handling"]
+  },
+  {
+    "skillId": "manual_dexterity",
+    "label": "Manual dexterity",
+    "escoId": "ESCO:PHY-019",
+    "escoLabel": "perform precision manual work",
+    "relatedOccupations": ["7422", "7231"],
+    "onetTaskClusters": ["fine motor repair", "manual servicing"]
+  },
+  {
+    "skillId": "inventory_pricing",
+    "label": "Inventory and pricing",
+    "escoId": "ESCO:BUS-011",
+    "escoLabel": "manage stock levels and pricing",
+    "relatedOccupations": ["4321", "5223", "5244"],
+    "onetTaskClusters": ["stock control", "basic merchandising"]
+  },
+  {
+    "skillId": "customer_service",
+    "label": "Customer service",
+    "escoId": "ESCO:CUST-001",
+    "escoLabel": "provide customer service",
+    "relatedOccupations": ["4225", "5244", "5249"],
+    "onetTaskClusters": ["frontline support", "complaint handling"]
+  },
+  {
+    "skillId": "digital_literacy",
+    "label": "Digital literacy",
+    "escoId": "ESCO:DIGI-006",
+    "escoLabel": "use digital tools effectively",
+    "relatedOccupations": ["4110", "4222", "4132"],
+    "onetTaskClusters": ["basic software use", "form completion"]
+  },
+  {
+    "skillId": "self_directed_learning",
+    "label": "Self-directed learning",
+    "escoId": "ESCO:LEARN-004",
+    "escoLabel": "manage own learning",
+    "relatedOccupations": ["3339", "3512", "4110"],
+    "onetTaskClusters": ["independent upskilling", "continuous learning"]
+  },
+  {
+    "skillId": "basic_software_logic",
+    "label": "Basic software logic",
+    "escoId": "ESCO:DIGI-014",
+    "escoLabel": "apply basic programming logic",
+    "relatedOccupations": ["3512", "4110"],
+    "onetTaskClusters": ["workflow logic", "simple automation support"]
+  },
+  {
+    "skillId": "record_keeping",
+    "label": "Record keeping",
+    "escoId": "ESCO:ADMIN-012",
+    "escoLabel": "maintain records",
+    "relatedOccupations": ["4110", "4321", "4222"],
+    "onetTaskClusters": ["log maintenance", "stock records"]
+  },
+  {
+    "skillId": "peer_training",
+    "label": "Peer training",
+    "escoId": "ESCO:TEACH-002",
+    "escoLabel": "coach peers",
+    "relatedOccupations": ["3339", "2424"],
+    "onetTaskClusters": ["peer support", "on-the-job instruction"]
+  },
+  {
+    "skillId": "literacy",
+    "label": "Literacy",
+    "escoId": "ESCO:BASE-001",
+    "escoLabel": "read and understand written information",
+    "relatedOccupations": ["4110", "4222", "4225"],
+    "onetTaskClusters": ["document handling", "instruction following"]
+  },
+  {
+    "skillId": "numeracy",
+    "label": "Numeracy",
+    "escoId": "ESCO:BASE-002",
+    "escoLabel": "use basic arithmetic",
+    "relatedOccupations": ["4321", "5223", "4225"],
+    "onetTaskClusters": ["cash handling", "basic calculations"]
+  },
+  {
+    "skillId": "formal_learning",
+    "label": "Formal learning discipline",
+    "escoId": "ESCO:BASE-010",
+    "escoLabel": "complete structured learning",
+    "relatedOccupations": ["4110", "4222", "3339"],
+    "onetTaskClusters": ["training readiness", "structured tasks"]
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "occupationCode": "7422",
+    "title": "ICT installers and servicers",
+    "baseExposure": 0.32,
+    "routineness": 0.36,
+    "manualComponent": 0.82,
+    "digitalTaskShare": 0.28
+  },
+  {
+    "occupationCode": "7421",
+    "title": "Electronics mechanics and servicers",
+    "baseExposure": 0.29,
+    "routineness": 0.34,
+    "manualComponent": 0.85,
+    "digitalTaskShare": 0.22
+  },
+  {
+    "occupationCode": "4222",
+    "title": "Contact centre information clerks",
+    "baseExposure": 0.74,
+    "routineness": 0.71,
+    "manualComponent": 0.12,
+    "digitalTaskShare": 0.76
+  },
+  {
+    "occupationCode": "4225",
+    "title": "Enquiry clerks",
+    "baseExposure": 0.61,
+    "routineness": 0.64,
+    "manualComponent": 0.16,
+    "digitalTaskShare": 0.66
+  },
+  {
+    "occupationCode": "3339",
+    "title": "Business services agents",
+    "baseExposure": 0.53,
+    "routineness": 0.57,
+    "manualComponent": 0.18,
+    "digitalTaskShare": 0.61
+  },
+  {
+    "occupationCode": "4321",
+    "title": "Stock clerks",
+    "baseExposure": 0.56,
+    "routineness": 0.62,
+    "manualComponent": 0.31,
+    "digitalTaskShare": 0.51
+  },
+  {
+    "occupationCode": "5244",
+    "title": "Sales workers",
+    "baseExposure": 0.41,
+    "routineness": 0.48,
+    "manualComponent": 0.23,
+    "digitalTaskShare": 0.45
+  },
+  {
+    "occupationCode": "3257",
+    "title": "Field data and inspection work",
+    "baseExposure": 0.47,
+    "routineness": 0.44,
+    "manualComponent": 0.28,
+    "digitalTaskShare": 0.42
+  },
+  {
+    "occupationCode": "3512",
+    "title": "ICT user support technicians",
+    "baseExposure": 0.49,
+    "routineness": 0.59,
+    "manualComponent": 0.14,
+    "digitalTaskShare": 0.63
+  },
+  {
+    "occupationCode": "4132",
+    "title": "Data entry clerks",
+    "baseExposure": 0.83,
+    "routineness": 0.81,
+    "manualComponent": 0.08,
+    "digitalTaskShare": 0.84
+  },
+  {
+    "occupationCode": "TRANS-01",
+    "title": "Language-only translation support",
+    "baseExposure": 0.88,
+    "routineness": 0.82,
+    "manualComponent": 0.05,
+    "digitalTaskShare": 0.9
+  }
+]

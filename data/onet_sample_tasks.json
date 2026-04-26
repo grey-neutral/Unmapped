@@ -1,0 +1,27 @@
+[
+  {
+    "occupationCode": "7422",
+    "cluster": "equipment testing",
+    "tasks": ["Diagnose charging and connectivity faults", "Replace or reseat damaged components", "Explain repair decisions to customers"]
+  },
+  {
+    "occupationCode": "4222",
+    "cluster": "customer interaction",
+    "tasks": ["Answer customer questions", "Record service requests", "Use scripts or knowledge bases"]
+  },
+  {
+    "occupationCode": "4321",
+    "cluster": "stock control",
+    "tasks": ["Track inventory", "Update stock records", "Count available units"]
+  },
+  {
+    "occupationCode": "3512",
+    "cluster": "technical support",
+    "tasks": ["Guide users through fixes", "Document issues", "Escalate unresolved problems"]
+  },
+  {
+    "occupationCode": "3257",
+    "cluster": "field coordination",
+    "tasks": ["Collect field information", "Explain procedures in local language", "Maintain accurate records"]
+  }
+]

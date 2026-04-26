@@ -1,0 +1,157 @@
+[
+  {
+    "id": "amara",
+    "anonymousId": "U-GHA-001",
+    "displayName": "Amara",
+    "age": 22,
+    "gender": "female",
+    "countryCode": "GHA",
+    "regionType": "peri-urban",
+    "preferredLanguage": "English",
+    "deviceAccess": "shared_phone",
+    "lookingFor": "job",
+    "education": {
+      "highestCompleted": "secondary_certificate",
+      "localCertificateName": "Secondary School Certificate",
+      "yearCompleted": 2021,
+      "hasProof": false
+    },
+    "languages": ["English", "Twi", "Ga"],
+    "guidedAnswers": {
+      "soldOrRunBusiness": true,
+      "repairedDevices": true,
+      "careOrCustomers": true,
+      "usedDigitalTools": true,
+      "learnedOnline": true,
+      "trainedOthers": false,
+      "handledMoney": true,
+      "languages": ["English", "Twi", "Ga"]
+    },
+    "experienceText": "I finished secondary school. I speak English, Twi and Ga. I have repaired phones since I was 17. I help customers, buy spare parts, manage prices, and learned basic coding from YouTube.",
+    "consentToContact": true
+  },
+  {
+    "id": "rahim",
+    "anonymousId": "U-BGD-002",
+    "displayName": "Rahim",
+    "age": 21,
+    "gender": "male",
+    "countryCode": "BGD",
+    "regionType": "rural",
+    "preferredLanguage": "Bangla",
+    "deviceAccess": "shared_phone",
+    "lookingFor": "self_employment",
+    "education": {
+      "highestCompleted": "basic_school",
+      "localCertificateName": "Class 8 completion",
+      "yearCompleted": 2020,
+      "hasProof": false
+    },
+    "languages": ["Bangla"],
+    "guidedAnswers": {
+      "soldOrRunBusiness": true,
+      "repairedDevices": false,
+      "careOrCustomers": true,
+      "usedDigitalTools": true,
+      "learnedOnline": false,
+      "trainedOthers": false,
+      "handledMoney": true,
+      "languages": ["Bangla"]
+    },
+    "experienceText": "I work on my family's small farm, help sell inputs at the market, and use mobile money for payments. I keep track of seed and fertilizer orders and explain products to customers.",
+    "consentToContact": false
+  },
+  {
+    "id": "efua",
+    "anonymousId": "U-GHA-003",
+    "displayName": "Efua",
+    "age": 24,
+    "gender": "female",
+    "countryCode": "GHA",
+    "regionType": "urban",
+    "preferredLanguage": "English",
+    "deviceAccess": "own_phone",
+    "lookingFor": "job",
+    "education": {
+      "highestCompleted": "secondary_certificate",
+      "localCertificateName": "WASSCE",
+      "yearCompleted": 2019,
+      "hasProof": true
+    },
+    "languages": ["English", "Twi"],
+    "guidedAnswers": {
+      "soldOrRunBusiness": true,
+      "repairedDevices": false,
+      "careOrCustomers": true,
+      "usedDigitalTools": true,
+      "learnedOnline": false,
+      "trainedOthers": true,
+      "handledMoney": true,
+      "languages": ["English", "Twi"]
+    },
+    "experienceText": "I sell household goods in the market, keep simple books, track stock, and explain product choices to customers. I have also shown two cousins how to use our bookkeeping sheet.",
+    "consentToContact": true
+  },
+  {
+    "id": "nadia",
+    "anonymousId": "U-GHA-004",
+    "displayName": "Nadia",
+    "age": 23,
+    "gender": "female",
+    "countryCode": "GHA",
+    "regionType": "peri-urban",
+    "preferredLanguage": "English",
+    "deviceAccess": "shared_phone",
+    "lookingFor": "training",
+    "education": {
+      "highestCompleted": "secondary_certificate",
+      "localCertificateName": "Secondary School Certificate",
+      "yearCompleted": 2020,
+      "hasProof": false
+    },
+    "languages": ["English", "Ewe", "Twi"],
+    "guidedAnswers": {
+      "soldOrRunBusiness": false,
+      "repairedDevices": false,
+      "careOrCustomers": true,
+      "usedDigitalTools": true,
+      "learnedOnline": true,
+      "trainedOthers": true,
+      "handledMoney": false,
+      "languages": ["English", "Ewe", "Twi"]
+    },
+    "experienceText": "I care for children and an older relative, speak English, Ewe and Twi, coordinate clinic visits, and learned online how to keep digital family schedules on a phone.",
+    "consentToContact": false
+  },
+  {
+    "id": "jasim",
+    "anonymousId": "U-BGD-005",
+    "displayName": "Jasim",
+    "age": 20,
+    "gender": "male",
+    "countryCode": "BGD",
+    "regionType": "peri-urban",
+    "preferredLanguage": "Bangla",
+    "deviceAccess": "own_phone",
+    "lookingFor": "apprenticeship",
+    "education": {
+      "highestCompleted": "basic_school",
+      "localCertificateName": "Class 8 completion",
+      "yearCompleted": 2021,
+      "hasProof": false
+    },
+    "languages": ["Bangla", "English"],
+    "guidedAnswers": {
+      "soldOrRunBusiness": false,
+      "repairedDevices": true,
+      "careOrCustomers": true,
+      "usedDigitalTools": true,
+      "learnedOnline": true,
+      "trainedOthers": false,
+      "handledMoney": false,
+      "languages": ["Bangla", "English"]
+    },
+    "experienceText": "I am an apprentice mechanic with no certificate yet. I diagnose bike and engine problems, help customers understand delays, and watch videos to learn new repair steps.",
+    "consentToContact": true
+  }
+]

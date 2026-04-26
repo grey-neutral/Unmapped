@@ -1,0 +1,6 @@
+{
+  "defaultLanguage": "English",
+  "supportedLanguages": ["English", "Twi", "Ga"],
+  "youthLabel": "Preferred language",
+  "lowBandwidthNote": "Forms are designed to work on shared phones and intermittent data."
+}

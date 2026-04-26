@@ -1,0 +1,6 @@
+{
+  "defaultLanguage": "Bangla",
+  "supportedLanguages": ["Bangla", "English", "Chittagonian"],
+  "youthLabel": "Preferred language",
+  "lowBandwidthNote": "The workflow is designed for shared phones and intermittent connectivity."
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "countryCode": "GHA",
+    "indicator": "NY.GDP.PCAP.CD",
+    "label": "GDP per capita",
+    "value": 2445,
+    "year": 2024,
+    "source": "World Bank WDI sample"
+  },
+  {
+    "countryCode": "GHA",
+    "indicator": "SL.UEM.NEET.ZS",
+    "label": "Youth NEET",
+    "value": 14.1,
+    "year": 2024,
+    "source": "World Bank WDI sample"
+  },
+  {
+    "countryCode": "BGD",
+    "indicator": "NY.GDP.PCAP.CD",
+    "label": "GDP per capita",
+    "value": 2824,
+    "year": 2024,
+    "source": "World Bank WDI sample"
+  },
+  {
+    "countryCode": "BGD",
+    "indicator": "SL.UEM.NEET.ZS",
+    "label": "Youth NEET",
+    "value": 29.8,
+    "year": 2024,
+    "source": "World Bank WDI sample"
+  }
+]

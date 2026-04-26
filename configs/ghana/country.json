@@ -1,0 +1,9 @@
+{
+  "countryCode": "GHA",
+  "countryName": "Ghana",
+  "defaultCityContext": "peri-urban Accra",
+  "defaultLanguage": "English",
+  "secondaryCredentialName": "Secondary School Certificate",
+  "regionOptions": ["urban", "peri-urban", "rural"],
+  "sectorPriorities": ["repair", "services", "retail", "field work", "customer support"]
+}

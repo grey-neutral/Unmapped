@@ -1,0 +1,86 @@
+[
+  {
+    "code": "7422",
+    "title": "ICT installers and servicers",
+    "sector": "repair services",
+    "manualComponent": 0.82,
+    "routineness": 0.36
+  },
+  {
+    "code": "7421",
+    "title": "Electronics mechanics and servicers",
+    "sector": "repair services",
+    "manualComponent": 0.85,
+    "routineness": 0.34
+  },
+  {
+    "code": "4222",
+    "title": "Contact centre information clerks",
+    "sector": "customer support",
+    "manualComponent": 0.12,
+    "routineness": 0.71
+  },
+  {
+    "code": "4225",
+    "title": "Enquiry clerks",
+    "sector": "customer support",
+    "manualComponent": 0.16,
+    "routineness": 0.64
+  },
+  {
+    "code": "3339",
+    "title": "Business services agents not elsewhere classified",
+    "sector": "services",
+    "manualComponent": 0.18,
+    "routineness": 0.57
+  },
+  {
+    "code": "4321",
+    "title": "Stock clerks",
+    "sector": "retail and logistics",
+    "manualComponent": 0.31,
+    "routineness": 0.62
+  },
+  {
+    "code": "5244",
+    "title": "Sales workers",
+    "sector": "retail",
+    "manualComponent": 0.23,
+    "routineness": 0.48
+  },
+  {
+    "code": "3257",
+    "title": "Environmental and occupational health inspectors and associates",
+    "sector": "field services",
+    "manualComponent": 0.28,
+    "routineness": 0.44
+  },
+  {
+    "code": "7231",
+    "title": "Motor vehicle mechanics and repairers",
+    "sector": "mechanical repair",
+    "manualComponent": 0.88,
+    "routineness": 0.29
+  },
+  {
+    "code": "3512",
+    "title": "Information and communications technology user support technicians",
+    "sector": "digital services",
+    "manualComponent": 0.14,
+    "routineness": 0.59
+  },
+  {
+    "code": "4110",
+    "title": "General office clerks",
+    "sector": "administration",
+    "manualComponent": 0.11,
+    "routineness": 0.68
+  },
+  {
+    "code": "4132",
+    "title": "Data entry clerks",
+    "sector": "administration",
+    "manualComponent": 0.08,
+    "routineness": 0.81
+  }
+]

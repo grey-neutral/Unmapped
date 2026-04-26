@@ -1,0 +1,5 @@
+country_code,indicator,value,unit,source
+GHA,informal_employment,77,%,ILOSTAT sample
+GHA,services_employment_growth,6.2,% growth,ILOSTAT sample
+BGD,informal_employment,85,%,ILOSTAT sample
+BGD,services_employment_growth,4.1,% growth,ILOSTAT sample

@@ -1,0 +1,9 @@
+{
+  "countryCode": "BGD",
+  "countryName": "Bangladesh",
+  "defaultCityContext": "rural to peri-urban district economy",
+  "defaultLanguage": "Bangla",
+  "secondaryCredentialName": "Secondary School Certificate",
+  "regionOptions": ["urban", "peri-urban", "rural"],
+  "sectorPriorities": ["agriculture", "textiles", "retail", "mobile money", "field work"]
+}
